@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Olá, eu sou o Mailson Pereira! 👋
 
